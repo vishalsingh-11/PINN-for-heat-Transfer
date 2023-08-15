@@ -21,3 +21,8 @@ The primary goal of this project is to investigate and implement the use of Phys
 This project draws inspiration from the potential of Physics-Informed Neural Networks (PINNs) to transform heat transfer problem-solving. I extend my gratitude to the DeepXDE Python package for facilitating efficient and accurate PINN implementations.
 
 For inquiries or collaborations, please contact [Vishal Bondili](mailto:rbondili@uncc.com).
+
+## Citation
+[Cai, S., Wang, Z., Wang, S., Perdikaris, P., and Karniadakis, G. E. (April 21, 2021). "Physics-Informed Neural Networks for Heat Transfer Problems." ASME. J. Heat Transfer. June 2021; 143(6): 060801.](https://doi.org/10.1115/1.4050542)
+
+
