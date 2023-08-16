@@ -14,7 +14,7 @@ The primary goal of this project is to investigate and implement the use of Phys
 - Application of PINNs to address the sensor placement problem.
 - Identification of optimal sensor locations for capturing crucial information about a given system or environment.
 - Detailed project report highlighting implementation details, methodology, and results.
-
+- The code implementation is still a work in progress.
 
 ## Acknowledgments
 
